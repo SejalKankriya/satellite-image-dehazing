@@ -46,3 +46,6 @@ To run the dehazing project on macOS or Linux:
 
 ## Project Insights
 The project utilizes AOD-Net for dehazing, showing significant improvement in image clarity and quality of dehazed images compared to their hazy counterparts. The model's effectiveness is evidenced by qualitative results, validating the model's effectiveness against state-of-the-art techniques.
+
+## License
+This project is licensed under the MIT license.
